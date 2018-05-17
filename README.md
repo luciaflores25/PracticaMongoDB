@@ -50,7 +50,7 @@ Aquí podemos comprobar que el año se la película se ha modificado correctamente
 
 <img src="Capturas/8.PNG">
 
-Para eliminar un documento hay que usar los siguientes comandos, lo que he hecho después de eliminar es mstrar un listado de la colección para comprobar que se ha borrado correctamente la película3 cuyo autor es Carlos Vermut:
+Para eliminar un documento hay que usar los siguientes comandos, lo que he hecho después de eliminar es mostrar un listado de la colección para comprobar que se ha borrado correctamente la película3 cuyo autor es Carlos Vermut:
 
 <img src="Capturas/9.PNG">
 
@@ -84,9 +84,33 @@ Esta consulta es para mostrar las películas lanzadas antes de 1950 (usando el op
 
 ## Ejercicio 6
 
+Realizar una consulta en la que los documentos aparezcan ordenados y se límite el número de estos mostrados:
+
+Para mostrar los documentos ordenador se utiliza el 1 para ordenarlos en orden ascendente y el -1 para ordenarlos en orden descendente.
+
+Lo que voy hacer es ordenar las 5 primeras películas por título en orden ascendente:
+
 <img src="Capturas/15.PNG">
+
+## Ejercicio 7
+
+Realizar una consulta con agrupamiento y una función para mostrar la media, o suma, o la que tú decidas.
+
+Para hacer la consulta con la función de la media que es la que he elegido, le he tenido que añadir el dato de número de espectadores
+
 <img src="Capturas/16.PNG">
+
+En la siguiente consulta he agrupado las películas por año:
+
 <img src="Capturas/17.PNG">
+
+Luego he comprobado si hay películas repetidas en el mismo año, en la siguiente captura podemos comprobar que en el año 2014 hay 2 películas:
+
+<img src="Capturas/18.PNG">
+
+Y por último he hecho la media del número de espectadores de cada año:
+
+<img src="Capturas/19.PNG">
 
 
 
